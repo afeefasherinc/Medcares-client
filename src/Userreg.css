@@ -1,0 +1,106 @@
+.heads4{
+    text-align: center;
+    border:none;
+    opacity: 0.8;
+    width: 400px;
+    margin: auto;
+    /* margin-top: 50px; */
+    background-color: rgb(180, 180, 236);
+    color: white;
+    border-radius: 50px; 
+}
+ .buts{
+    color: black;
+    background-color: blue;
+    color: white;
+    width: 80px;
+    margin-top: 20px;
+    border-radius: 10px;
+   }
+
+.heads6{
+    color:Black;
+}
+ .section2{
+     background: url("C:\Users\afees\OneDrive\Desktop\admins.jpg");  
+    background-size: cover;
+    height: 1000px;
+    padding-top: 70px;
+} 
+.register{
+    text-decoration: none;
+    color: white;
+}
+.inputss{
+    height: 60px;
+    width: 436px;
+    margin-top: 8px;
+    outline: none;
+    border-radius: 10px;
+}
+.gap{
+    width: 300px;
+    margin-left: 20px;
+    height: 48px;
+    border-radius: 10px;
+}
+.formals{
+    text-align: center;
+    border:none;
+    color: white;
+    border-radius: 50px; 
+    height: 400px;
+    width: 500px;
+    margin: auto;
+}
+.formreg{
+    background-color:white ;
+    width: 600px;
+    height: 840px;
+    border-radius: 4px;
+}
+.fbu{
+    width: 200px;
+        border-radius: 10px;
+        height: 52px;
+        margin-right: 10px;
+        background-color: rgb(47, 47, 153);
+}
+.gob{
+    width: 200px;
+    border-radius: 10px;
+    height: 52px;
+    background-color: white;
+    color: black;
+    margin-left: 10px;
+        font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.first{
+    color: black;
+    margin-top: 41px;
+    margin-left: -357px;
+}
+.last{
+    color: black;
+    margin-top: 9px;
+    margin-left: -357px;
+}
+.email{
+    margin-left: -391px;
+    color: black;
+    margin-top: 9px;
+}
+.pass{
+    color: black;
+    margin-left: -365px;
+    margin-top: 7px;
+}
+.signs{
+    color: white;
+    background-color: black;
+    height: 55px;
+    width: 436px;
+    margin-top: 18px;
+    border-radius: 10px;
+}

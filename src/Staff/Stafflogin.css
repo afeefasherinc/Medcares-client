@@ -1,0 +1,46 @@
+.heads5{
+    text-align: center;
+    border:none;
+    opacity: 0.8;
+    width: 500px;
+    margin: auto;
+    /* margin-top: 50px; */
+    background-color: rgb(104, 104, 244);
+    color: white;
+    border-radius: 20px; 
+    height: 300px;
+    margin-top: 10px;
+}
+button{
+    color: white;
+    background-color: blue;
+
+    width: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+    
+}
+
+.inp{
+    border-radius: 20px;
+    width: 400px;
+    height: 5px;
+    gap: 50px;
+    background-color: white;
+}
+h2{
+    color: black;
+}
+/* .sections{
+    background: url("C:\Users\afees\OneDrive\Desktop\adminn.jpg");
+    background-size: cover;
+    height: 800px;
+    padding-top: 70px; */
+
+.reg{
+    width: 100px;
+}
+.heads7{
+    color: black;
+}

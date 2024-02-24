@@ -1,0 +1,88 @@
+.navb{
+    background-color: blue;
+}
+.hedss{
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px; 
+}
+  .appoint{
+    color: rgb(128, 128, 240);
+    font-size: 35px;
+    text-align: center;
+    padding: 60px;
+    margin-left: 20px;
+
+}
+.flex3{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: rgb(172, 186, 197);
+    
+}
+.doc{
+   
+    margin-top: 100px;
+    
+}
+ .inpu{
+    background-color: black;
+    width: 200px;
+    text-align: center;
+}
+.full{
+    text-align: center;
+    margin-top: 40px;
+}
+.flex2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+.flex3{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 100px;
+    margin-right: -115px;
+}
+.box{
+   
+    color: #000;
+    text-align: center;
+    width: 300px;
+    margin-left: 20px;
+    color: black;
+    
+}
+.text{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.margin{
+    margin-left: 28%;
+    
+
+}
+.submit{
+    margin-left: 190px;
+    width: 300px;
+    border-radius: 10px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}   
+.border{
+    background-color: rgb(172, 186, 197);
+}
+.phone{
+    width: 300px;
+     margin-left:200px ;
+}
+
+
+    

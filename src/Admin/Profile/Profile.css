@@ -1,0 +1,22 @@
+.form{
+    width: 600px;
+    
+}
+.gap{
+   margin-top: 25px;
+}
+.align{
+    border: 3px solid rgb(12, 59, 46);
+    background-color:rgb(9,213,133); 
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    align-content: stretch;
+    
+}
+
+
+
+

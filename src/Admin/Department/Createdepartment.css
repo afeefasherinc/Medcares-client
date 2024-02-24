@@ -1,0 +1,9 @@
+.black{
+    width: 120px;
+    gap: 10px;
+}
+.add{
+    width: 200px;
+    background-color: grey;
+    color: white;
+}

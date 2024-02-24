@@ -1,0 +1,22 @@
+ /* .color{
+    width: 300px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 50px;
+    height: 550px;
+}
+
+a{
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:blue ;
+    font-size: 17px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 10px;
+    color: aliceblue;
+    transition: 0.3s ease;
+}  */
